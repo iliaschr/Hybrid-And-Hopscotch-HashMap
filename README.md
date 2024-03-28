@@ -2,7 +2,7 @@
 
 ## 2023 Project 3
 
-Εκφώνηση: https://k08.chatzi.org/projects/project3/
+Εκφώνηση: https://k08.chatzi.org/2023/projects/project3/
 
 
 ### Προσωπικά στοιχεία
