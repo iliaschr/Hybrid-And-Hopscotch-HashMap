@@ -1,4 +1,4 @@
-![run-tests](../../workflows/run-tests/badge.svg)
+![run-tests](https://github.com/iliaschr/Hybrid-And-Hopscotch-HashMap/actions/workflows/makefile.yml/badge.svg)
 
 ## 2023 Project 3
 
