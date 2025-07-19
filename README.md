@@ -2,26 +2,24 @@
 
 ## 2023 Project 3
 
-Εκφώνηση: https://k08.chatzi.org/2023/projects/project3/
+Assignment description: https://k08.chatzi.org/2023/projects/project3/
 
+### Submitted Exercises
 
-### Ασκήσεις που παραδίδονται
+Fill in here the exercises (and any bonus ones) that you are submitting. If any exercise  
+is located in unexpected files, mention those files as well.
 
-Συμπληρώστε εδώ τις ασκήσεις (και τυχόν bonus) που παραδίδετε. Αν κάποια άσκηση
-βρίσκεται σε μη αναμενόμενα αρχεία αναφέρετε και τα αρχεία αυτά.
-
-- Άσκηση 1
-- Άσκηση 2 
+- Exercise 1  
+- Exercise 2  
 
 ### Documentation
 
-Συμπληρώστε εδώ __όσο documentation χρειάζεται__ ώστε οι βαθμολογητές να
-κατανοήσουν πλήρως τις λύσεις σας και να τις βαθμολογήσουν ανάλογα. Αυτό θα
-πρέπει να γίνει ανεξάρτητα με το αν ο κώδικάς σας είναι καλά σχολιασμένος,
-πράγμα που συνιστάται.
+Fill in here __as much documentation as needed__ so that the graders can fully  
+understand your solutions and grade them accordingly. This should be done  
+regardless of whether your code is well-commented, which is recommended.
 
+### Exercise 1: (passes all tests)  
 
-### Άσκηση 1: (περνάει όλα τα τεστ)
  #### map_insert:         
                         real       amortized
     - worst             O(n)       O(n)
@@ -32,7 +30,7 @@
     - average           O(1)       O(1)
 
 
-### Άσκηση 2: (περνάει όλα τα τεστ)
+### Exercise 2: (passes all tests)
  #### map_insert:         
                         real       amortized
     - worst             O(n)       O(n)
